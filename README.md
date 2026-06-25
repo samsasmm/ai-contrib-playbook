@@ -26,8 +26,7 @@ Most projects are figuring out their policy alone, in a panic. This repo
 collects what others decided, so you don't start from a blank page.
 
 > **Note:** policies change. Every claim below links to its source — click
-> through and verify before you rely on it. A weekly link-check keeps these
-> references from rotting.
+> through and verify before you rely on it.
 
 ## Part 1 — What projects are doing (a map)
 
@@ -104,7 +103,7 @@ adding it to the map — with a link to the source. Bilingual entries welcome.
 让你不必从一张白纸开始。
 
 > **注意：** 政策会变。下面每条都附了来源链接——用之前请点进去核实。
-> 仓库每周自动跑一次链接检查，避免引用失效。
+>
 
 ## 三步选定你的立场
 
